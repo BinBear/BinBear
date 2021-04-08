@@ -1,14 +1,36 @@
 
 ## Hey, BinBear here! :wave:
 
-I'm Y**ou** Y**u**f**an**, a senior high school student from Wuhan, China.
+<h3> 👨🏻‍💻 About Me </h3>
 
--   :hammer_and_pick: C++/Qt/GitHub Actions, a little bit Python/JavaScript
--   :package: Building [CP Editor](https://github.com/cpeditor/cpeditor) and more
--   :pencil2: Arch Linux / i3-wm / Oh My Zsh / VS Code / Firefox
--   :seedling: Preparing for [Gaokao](https://en.wikipedia.org/wiki/National_College_Entrance_Examination)
--   :man: Pronouns: he/him
--   :key: GPG key: [`863A0F9FA8127FA4`](https://github.com/ouuan.gpg)
+- 🔭 &nbsp; I’m currently learning Flutter Application Development
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
+- 💼 &nbsp; iOS developer.
+- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
+- ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=BinBear&show_icons=true&theme=dark&count_private=true)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BinBear&theme=dark&layout=compact)
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Objective-C | Swift | Dart | JavaScript
+- 🌐 &nbsp; iOS | flutter
+- 🔧 &nbsp; Xcode | PyCharm | Visual Studio code | Git
+- 🖥 &nbsp; Photoshop | Sketch
+
+
+<br>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=BinBer&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="BinBer's Github Stats">
+
+</br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BinBer&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/BinBer/github-readme-stats)
+
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="left">
+&nbsp; <a href="mailto:vin404@outlook.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+</p>
+
+⭐️ From [BinBer](https://github.com/BinBer)
