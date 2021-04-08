@@ -20,11 +20,11 @@
 
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=BinBer&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="BinBer's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=BinBear&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="BinBear's Github Stats">
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BinBer&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/BinBer/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BinBear&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/BinBear/github-readme-stats)
 
 
 <h3> 🤝🏻 Connect with Me </h3>
@@ -33,4 +33,4 @@
 &nbsp; <a href="mailto:vin404@outlook.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
-⭐️ From [BinBer](https://github.com/BinBer)
+⭐️ From [BinBear](https://github.com/BinBear)
