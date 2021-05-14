@@ -30,7 +30,7 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="left">
-&nbsp; <a href="mailto:vin404@outlook.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+&nbsp; <a href="mailto:vin404@outlook.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/50/000000/ms-outlook--v2.png"  width="50" /></a>
 </p>
 
 ⭐️ From [BinBear](https://github.com/BinBear)
